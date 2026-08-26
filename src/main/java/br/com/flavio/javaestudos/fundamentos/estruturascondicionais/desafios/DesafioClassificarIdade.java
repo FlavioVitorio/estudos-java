@@ -1,7 +1,7 @@
 package br.com.flavio.javaestudos.fundamentos.estruturascondicionais.desafios;
 
 public class DesafioClassificarIdade {
-    static void main() {
+   public static void main(String[] args) {
         int idade=19;
         if (idade<11){
             System.out.println("Voce é criança");

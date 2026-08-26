@@ -3,7 +3,7 @@ package br.com.flavio.javaestudos.orientacaoobjetos.modificadorestatico.teste;
 import br.com.flavio.javaestudos.orientacaoobjetos.modificadorestatico.dominio.Carro;
 
 public class TesteCarro {
-    static void main() {
+   public static void main(String[] args) {
         Carro carro01=new Carro("Ferrari",350);
         Carro carro02=new Carro("BMW",270);
         Carro carro03=new Carro("Audi",260);

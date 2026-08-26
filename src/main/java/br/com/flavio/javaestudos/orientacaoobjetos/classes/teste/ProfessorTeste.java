@@ -3,7 +3,7 @@ package br.com.flavio.javaestudos.orientacaoobjetos.classes.teste;
 import br.com.flavio.javaestudos.orientacaoobjetos.classes.dominio.Professor;
 
 public class ProfessorTeste {
-    static void main() {
+   public static void main(String[] args) {
         Professor professor = new Professor();
         professor.nome = "gojo";
         professor.idade = 24;

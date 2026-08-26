@@ -3,7 +3,7 @@ package br.com.flavio.javaestudos.orientacaoobjetos.metodos.teste;
 import br.com.flavio.javaestudos.orientacaoobjetos.metodos.dominio.Calculadora;
 
 public class CalculadoraTeste05 {
-    static void main() {
+   public static void main(String[] args) {
         Calculadora calculadora = new Calculadora();
         int[] array = {1, 3, 5, 6, 9, 9};
         calculadora.somaArray(array);

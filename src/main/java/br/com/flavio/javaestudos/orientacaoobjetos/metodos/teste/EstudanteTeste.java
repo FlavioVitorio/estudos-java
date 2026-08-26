@@ -4,7 +4,7 @@ import br.com.flavio.javaestudos.orientacaoobjetos.metodos.dominio.Estudante;
 import br.com.flavio.javaestudos.orientacaoobjetos.metodos.dominio.ImpressoraEstudante;
 
 public class EstudanteTeste {
-    static void main() {
+   public static void main(String[] args) {
         Estudante estudante = new Estudante();
         Estudante estudante02 = new Estudante();
         ImpressoraEstudante imprimir=new ImpressoraEstudante();

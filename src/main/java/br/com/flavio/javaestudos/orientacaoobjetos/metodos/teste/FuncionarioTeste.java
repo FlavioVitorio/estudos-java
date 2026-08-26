@@ -4,7 +4,7 @@ import br.com.flavio.javaestudos.orientacaoobjetos.metodos.dominio.Funcionario;
 import br.com.flavio.javaestudos.orientacaoobjetos.metodos.dominio.ImprimeMediaSalarioFuncionario;
 
 public class FuncionarioTeste {
-    static void main() {
+   public static void main(String[] args) {
 
         Funcionario funcionario = new Funcionario();
         ImprimeMediaSalarioFuncionario imprimeMediaSalarioFuncionario = new ImprimeMediaSalarioFuncionario();

@@ -1,7 +1,7 @@
 package br.com.flavio.javaestudos.fundamentos.arrays.exemplos;
 
 public class ArraysMuitidimensionais02 {
-    static void main() {
+   public static void main(String[] args) {
         int[][] arrayMult=new int[2][];
         arrayMult[0]=new int[]{2,45};
         arrayMult[1]=new int[]{3,5,7};

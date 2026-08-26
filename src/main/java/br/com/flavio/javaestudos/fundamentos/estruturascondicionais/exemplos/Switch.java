@@ -1,7 +1,7 @@
 package br.com.flavio.javaestudos.fundamentos.estruturascondicionais.exemplos;
 
 public class Switch {
-    static void main() {
+   public static void main(String[] args) {
         byte dia = 5;
         switch (dia) {
             case 1:

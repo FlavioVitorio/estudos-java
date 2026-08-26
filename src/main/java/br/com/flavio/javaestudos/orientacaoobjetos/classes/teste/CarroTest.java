@@ -3,7 +3,7 @@ package br.com.flavio.javaestudos.orientacaoobjetos.classes.teste;
 import br.com.flavio.javaestudos.orientacaoobjetos.classes.dominio.Carro;
 
 public class CarroTest {
-    static void main() {
+   public static void main(String[] args) {
         Carro carro01 = new Carro();
         Carro carro02 = new Carro();
 

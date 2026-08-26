@@ -1,7 +1,7 @@
 package br.com.flavio.javaestudos.fundamentos.operadores.exemplos;
 
 public class OperadoresLogicos {
-    static void main() {
+   public static void main(String[] args) {
         int idade=25;
         double salario=3922.4;
         boolean isDentroDaLeiMaiorQueTRinta=idade>=30&&salario>=4612;

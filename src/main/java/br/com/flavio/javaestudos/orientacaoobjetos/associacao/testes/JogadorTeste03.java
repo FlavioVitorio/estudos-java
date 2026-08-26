@@ -4,7 +4,7 @@ import br.com.flavio.javaestudos.orientacaoobjetos.associacao.dominio.Jogador;
 import br.com.flavio.javaestudos.orientacaoobjetos.associacao.dominio.Time;
 
 public class JogadorTeste03 {
-    static void main() {
+    public static void main(String[] args) {
         Jogador jogador=new Jogador("Romario");
         Time time=new Time("Flamengo");
 

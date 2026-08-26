@@ -1,7 +1,7 @@
 package br.com.flavio.javaestudos.fundamentos.variaveis.desafios;
 
 public class DesafioSalarioMensal {
-    static void main() {
+   public static void main(String[] args) {
         double salarioMensal=1618;
         double salarioAnual=salarioMensal*12;
         double calculoDaSobra=salarioAnual*30/100;

@@ -1,7 +1,7 @@
 package br.com.flavio.javaestudos.fundamentos.estruturascondicionais.desafios;
 
 public class DesafioDiaUtil {
-    static void main() {
+   public static void main(String[] args) {
         byte dia=7;
         switch (dia){
             case 1:

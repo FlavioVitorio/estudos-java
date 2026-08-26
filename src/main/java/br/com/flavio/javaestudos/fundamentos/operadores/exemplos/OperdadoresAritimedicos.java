@@ -1,7 +1,7 @@
 package br.com.flavio.javaestudos.fundamentos.operadores.exemplos;
 
 public class OperdadoresAritimedicos {
-    static void main() {
+   public static void main(String[] args) {
         int numero01=20;
         int numero02=5;
         int resultadoSubtracao=numero01-numero02;

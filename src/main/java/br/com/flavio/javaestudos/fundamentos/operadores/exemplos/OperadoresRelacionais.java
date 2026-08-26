@@ -1,7 +1,7 @@
 package br.com.flavio.javaestudos.fundamentos.operadores.exemplos;
 
 public class OperadoresRelacionais {
-    static void main() {
+   public static void main(String[] args) {
      boolean izVinteMaiorQueQuinze=20>15;
      boolean izVinteMenorQueQuinze=20<15;
      boolean izVinteIqualQuinze=20==15;

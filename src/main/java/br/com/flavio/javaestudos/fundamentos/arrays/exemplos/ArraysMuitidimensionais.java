@@ -1,7 +1,7 @@
 package br.com.flavio.javaestudos.fundamentos.arrays.exemplos;
 
 public class ArraysMuitidimensionais {
-    static void main() {
+   public static void main(String[] args) {
         int[][] meses = new int[2][3];
         meses[0][0] = 31;
         meses[0][1] = 28;

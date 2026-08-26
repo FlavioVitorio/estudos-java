@@ -1,7 +1,7 @@
 package br.com.flavio.javaestudos.fundamentos.estruturascondicionais.desafios;
 
 public class DesafioImpostos {
-    static void main() {
+   public static void main(String[] args) {
         double salarioAnual=4566;
         double primeiraFaixa=2.5/100;
         double segundaFaixa=7.0/100;

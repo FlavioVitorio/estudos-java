@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class LeituraDoTecladoTeste
 {
-    static void main() {
+    public static void main(String[] args) {
         Scanner entreda=new Scanner(System.in);
         System.out.println("digite seu nome:");
         String nome=entreda.nextLine();

@@ -1,7 +1,7 @@
 package br.com.flavio.javaestudos.fundamentos.variaveis.exemplos;
 
 public class TiposPrimitivos {
-    static void main() {
+   public static void main(String[] args) {
         int numeroLong=100000;
         int numeroDaConta=131312313;
         long contaBancaria=1234589876543L;

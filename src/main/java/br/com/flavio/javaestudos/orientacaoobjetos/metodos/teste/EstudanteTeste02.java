@@ -3,7 +3,7 @@ package br.com.flavio.javaestudos.orientacaoobjetos.metodos.teste;
 import br.com.flavio.javaestudos.orientacaoobjetos.metodos.dominio.Estudante;
 
 public class EstudanteTeste02 {
-    static void main() {
+   public static void main(String[] args) {
         Estudante estudante=new Estudante();
         Estudante estudante02 = new Estudante();
 

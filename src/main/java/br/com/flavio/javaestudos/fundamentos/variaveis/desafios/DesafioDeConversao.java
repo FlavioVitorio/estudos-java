@@ -1,7 +1,7 @@
 package br.com.flavio.javaestudos.fundamentos.variaveis.desafios;
 
 public class DesafioDeConversao {
-    static void main() {
+   public static void main(String[] args) {
         double valorMetro=26.6;
         double valorCentimetro=valorMetro*100;
 

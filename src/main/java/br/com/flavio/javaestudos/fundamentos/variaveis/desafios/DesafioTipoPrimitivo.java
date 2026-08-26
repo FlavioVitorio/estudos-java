@@ -1,7 +1,7 @@
 package br.com.flavio.javaestudos.fundamentos.variaveis.desafios;
 
 public class DesafioTipoPrimitivo {
-    static void main() {
+   public static void main(String[] args) {
         String nome="João Paulo";
         String endereco="rua minas gerais";
         double salario=5000.5;

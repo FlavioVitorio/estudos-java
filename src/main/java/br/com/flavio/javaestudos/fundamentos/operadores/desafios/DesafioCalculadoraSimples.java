@@ -1,7 +1,7 @@
 package br.com.flavio.javaestudos.fundamentos.operadores.desafios;
 
 public class DesafioCalculadoraSimples {
-    static void main() {
+   public static void main(String[] args) {
         double numero01=30;
         double numero02=6;
         double divisao=numero01/numero02;

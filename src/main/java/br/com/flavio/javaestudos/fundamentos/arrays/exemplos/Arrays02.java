@@ -1,7 +1,7 @@
 package br.com.flavio.javaestudos.fundamentos.arrays.exemplos;
 
 public class Arrays02 {
-    static void main() {
+   public static void main(String[] args) {
         String [] nomes=new String[3];
         nomes[0]="naruto";
         nomes[1]="goku";

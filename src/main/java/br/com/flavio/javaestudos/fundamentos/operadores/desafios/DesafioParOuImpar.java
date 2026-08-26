@@ -1,7 +1,7 @@
 package br.com.flavio.javaestudos.fundamentos.operadores.desafios;
 
 public class DesafioParOuImpar {
-    static void main() {
+   public static void main(String[] args) {
         int numero=20;
         int verificacaoImparOuPar=numero%2;
         if(verificacaoImparOuPar==0){

@@ -1,7 +1,7 @@
 package br.com.flavio.javaestudos.fundamentos.estruturascondicionais.exemplos;
 
 public class OperadorTernario {
-    static void main() {
+   public static void main(String[] args) {
         double salario=8000;
         String mensagemComprar="Eu vou comprar meu Minicraft por R$:99.";
         String mensagemNaoComprar="Ainda nao tenho condiçoes de comprar Minicraft ";

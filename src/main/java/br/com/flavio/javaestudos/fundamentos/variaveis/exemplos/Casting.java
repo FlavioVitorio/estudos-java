@@ -1,7 +1,7 @@
 package br.com.flavio.javaestudos.fundamentos.variaveis.exemplos;
 
 public class Casting {
-    static void main() {
+   public static void main(String[] args) {
         int numero=(int) 10000000000L;
         float decimal=(float)12.21234567898765432;
         double x=10.6;
