@@ -1,7 +1,7 @@
 package br.com.flavio.javaestudos.fundamentos.estruturasderepetiçao.exemplos;
 
 public class Continue {
-    staticpublic static void main(String[] args) {
+    static void main() {
         double valor=20000;
         for (int parcela =(int) valor; parcela >=1; parcela--) {
             double valorParcela=valor/parcela;

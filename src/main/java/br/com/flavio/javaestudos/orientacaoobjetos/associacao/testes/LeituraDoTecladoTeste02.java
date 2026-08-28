@@ -8,6 +8,9 @@ public class LeituraDoTecladoTeste02 {
         System.out.println("Software precisão do fututo");
         System.out.println("digite sua pergunta e responderei sim ou nao");
         String pergunta=entrada.nextLine();
+        if (pergunta==""){
+            System.out.println("Onde esta a pergunta?");
+            return;}
         if (pergunta.charAt(0)==' '){
             System.out.println("Sim");
         }else {
